@@ -1,0 +1,9 @@
+WebServlets\updateServlet.class
+listeners\contextListener.class
+shoppingCart\cart.class
+listeners\sessionListener.class
+WebServlets\HomePageServlet.class
+DBManager\DBManager.class
+WebServlets\shoppingCartServlet.class
+WebServlets\visualiseProduct.class
+Product\Product.class

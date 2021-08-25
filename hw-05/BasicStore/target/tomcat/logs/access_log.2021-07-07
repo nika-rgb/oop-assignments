@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:51 +0400] "GET / HTTP/1.1" 200 2444 http-bio-8000-exec-1 2051
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:51 +0400] "GET /favicon.ico HTTP/1.1" 200 1828 http-bio-8000-exec-3 16
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:54 +0400] "GET /show-product;jsessionid=2E155DC02FF6427E04CCAF5351ACA03C?id=TLJa HTTP/1.1" 200 556 http-bio-8000-exec-4 206
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:54 +0400] "GET /store-images/JapaneseTShirt.jpg HTTP/1.1" 200 1828 http-bio-8000-exec-5 124
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:54 +0400] "GET /favicon.ico HTTP/1.1" 200 1828 http-bio-8000-exec-6 4
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:57 +0400] "POST /shopping-cart HTTP/1.1" 302 - http-bio-8000-exec-7 3
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:57 +0400] "GET /shopping-cart HTTP/1.1" 200 688 http-bio-8000-exec-8 57
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:01:58 +0400] "GET /favicon.ico HTTP/1.1" 200 1828 http-bio-8000-exec-9 4
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:02:07 +0400] "POST /update HTTP/1.1" 200 - http-bio-8000-exec-10 0
+0:0:0:0:0:0:0:1 - - [07/Jul/2021:01:02:08 +0400] "GET /favicon.ico HTTP/1.1" 200 1828 http-bio-8000-exec-10 4
